@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{709D1EBB-E48E-460F-943D-BE8BD5371502}") = "Venom Control", "Client\Client.csproj", "{0044CDF0-1164-4C72-B675-7A33FA1706A8}"
+EndProject
+Project("{709D1EBB-E48E-460F-943D-BE8BD5371502}") = "Venom Control", "Server\Server.csproj", "{0044CDF0-1164-4C72-B675-7A33FA1706A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0044CDF0-1164-4C72-B675-7A33FA1706A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0044CDF0-1164-4C72-B675-7A33FA1706A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0044CDF0-1164-4C72-B675-7A33FA1706A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0044CDF0-1164-4C72-B675-7A33FA1706A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D390BD2E-6E22-405F-A1B1-8B0CF8F8572C}
+	EndGlobalSection
+EndGlobal
